@@ -419,9 +419,4 @@ public class mainService {
 		}
 		return 0;
 	}
-	
-	
-		
-	
-
 }
